@@ -2,7 +2,7 @@
 
 MiniTZ1 is part of the MiniTZ / TaghdisiLabs project family.
 
-The inherited Mintlify Starter Kit sample pages, branding, configuration, instructions, and template license have been removed from this repository. This repository is not presented as a finished documentation site until project-specific documentation is added.
+This repository currently contains project ownership and contact metadata. Project-specific documentation and implementation details should be added here when they are ready.
 
 ## Project contacts
 
